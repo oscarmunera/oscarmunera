@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarmunera
-- 👀 I’m interested in PL/SQL, COBOL, JavaScrip y BI.
+- 👀 I’m interested in PL/SQL, COBOL, JavaScript y BI.
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
