@@ -2,7 +2,7 @@
 - 👀 I’m interested in PL/SQL, COBOL, JavaScript y BI.
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Startup, API´s
-- 📫 How to reach me oscardariomunera@gmail.com
+- 📫 oscardariomunera@gmail.com
 
 <!---
 oscarmunera/oscarmunera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
