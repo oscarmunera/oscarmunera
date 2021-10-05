@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JS (React) and google cloud.
 - 💞️ I’m looking to collaborate on Startup, API´s
 - 📫 oscardariomunera@gmail.com
+- @oscarmunera
 
 <!---
 oscarmunera/oscarmunera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
