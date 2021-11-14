@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscarmunera
 - 👀 I’m interested in PL/SQL, COBOL, JavaScript y BI.
-- 🌱 I’m currently learning JS (React) and google cloud.
+- 🌱 I’m currently learning JS (React), Jamstack, and google cloud.
 - 💞️ I’m looking to collaborate on Startup, API´s
 - 📫 oscardariomunera@gmail.com
 - @oscarmunera
